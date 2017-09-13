@@ -1,2 +1,2 @@
 # blog
-some python  blog
+My python  blog
