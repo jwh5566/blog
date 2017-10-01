@@ -2,6 +2,7 @@
 Open source is not only a kind of behavior, it is a faith.
 ### 文章列表
 ---
+##### 201710/20171001_02.md [《django技巧#5 django ajax》](201710/20171001_02.md)
 ##### 201710/20171001_01.md [《django技巧#4 django分页》](201710/20171001_01.md)
 ---
 ##### 201709/20170930_03.md [《django技巧#3 django处理文件上传》](201709/20170930_03.md)
