@@ -2,6 +2,7 @@
 Open source is not only a kind of behavior, it is a faith.
 ### 文章列表
 ---
+##### 201710/20171007_01.md [《ansible入门2：变量传递以及用户创建》](201710/20171007_01.md)
 ##### 201710/20171001_03.md [《django技巧#6 django celery》](201710/20171001_03.md)
 ##### 201710/20171001_02.md [《django技巧#5 django ajax》](201710/20171001_02.md)
 ##### 201710/20171001_01.md [《django技巧#4 django分页》](201710/20171001_01.md)
