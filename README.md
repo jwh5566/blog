@@ -2,6 +2,7 @@
 Open source is not only a kind of behavior, it is a faith.
 ### 文章列表
 ---
+##### 201710/20171008_02.md [《ansible入门6：自定义ansible模块》](201710/20171008_02.md)
 ##### 201710/20171008_01.md [《ansible入门5：ansible条件判断及角色roles和邮件通知》](201710/20171008_01.md)
 ##### 201710/20171007_03.md [《ansible入门4：ansible遍历循环》](201710/20171007_03.md)
 ##### 201710/20171007_02.md [《ansible入门3：使用ansible初始化服务器》](201710/20171007_02.md)
