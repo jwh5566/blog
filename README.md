@@ -2,6 +2,7 @@
 Open source is not only a kind of behavior, it is a faith.
 ### 文章列表
 ---
+##### 201712/20171206_02.md [《django技巧#7 自定义过滤器》](201712/20171206_02.md)
 ##### 201712/20171206_01.md [《django技巧#7 自定义标签》](201712/20171206_01.md)
 ---
 ##### 201711/20171110_01.md [《Elastic Stack 5 学习笔记二 Elasticsearch 结构和API》](201711/20171110_01.md)
