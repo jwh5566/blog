@@ -2,6 +2,8 @@
 Open source is not only a kind of behavior, it is a faith.
 ### 文章列表
 ---
+##### 201712/20171206_01.md [《Elastic Stack 5 学习笔记二 Elasticsearch 结构和API》](201712/20171206_01.md)
+---
 ##### 201711/20171110_01.md [《Elastic Stack 5 学习笔记二 Elasticsearch 结构和API》](201711/20171110_01.md)
 ##### 201711/20171107_01.md [《Elastic Stack 5 学习笔记一（安装配置）》](201711/20171107_01.md)
 ---
