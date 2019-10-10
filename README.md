@@ -1,6 +1,7 @@
 # jwh5566's blog
 Open source is not only a kind of behavior, it is a faith.
 ### 文章列表
+##### 201910/20191010_01.md [《kubernetes in action#1 kubernetes介绍》](201910/20191010_01.md)
 ---
 ##### 201802/20180228_01.md [《devops with kubernetes#2 kubernetes各组件详解》](201802/20180228_01.md)
 ##### 201802/20180226_01.md [《devops with kubernetes#1 kubernetes各组件详解》](201802/20180226_01.md)
